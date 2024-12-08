@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShamaS\\myreactapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\nodeserver\\Server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nodeserver\\Server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\RoleManagement.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\RoleManagement.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\MainTable.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\MainTable.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\Details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\NavBar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\NavBar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\WarrantyInput.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\WarrantyInput.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\ProductInput.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ProductInput.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\Api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\Register.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Register.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\PrivateRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\PrivateRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\AuthService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\AuthService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\Authenticator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Authenticator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\Serial.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Serial.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\SerialSearch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SerialSearch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShamaS\\myreactapp\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T01:26:28.218Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-15T22:49:47.545Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavBar.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\NavBar.js",
+              "RelativeDocumentMoniker": "src\\NavBar.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\NavBar.js",
+              "RelativeToolTip": "src\\NavBar.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwFUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T04:52:48.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\Login.js",
+              "RelativeDocumentMoniker": "src\\Login.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\Login.js",
+              "RelativeToolTip": "src\\Login.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-27T23:37:30.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Authenticator.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\Authenticator.js",
+              "RelativeDocumentMoniker": "src\\Authenticator.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\Authenticator.js",
+              "RelativeToolTip": "src\\Authenticator.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-15T19:07:43.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\AuthService.js",
+              "RelativeDocumentMoniker": "src\\AuthService.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\AuthService.js",
+              "RelativeToolTip": "src\\AuthService.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-11T23:10:50.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\nodeserver\\Server.js",
+              "RelativeDocumentMoniker": "nodeserver\\Server.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\nodeserver\\Server.js",
+              "RelativeToolTip": "nodeserver\\Server.js",
+              "ViewState": "AQIAALsAAAAAAAAAAAAAAEoBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T22:28:07.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Api.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\Api.js",
+              "RelativeDocumentMoniker": "src\\Api.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\Api.js",
+              "RelativeToolTip": "src\\Api.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-10T22:48:18.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrivateRoute.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\PrivateRoute.js",
+              "RelativeDocumentMoniker": "src\\PrivateRoute.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\PrivateRoute.js",
+              "RelativeToolTip": "src\\PrivateRoute.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T02:56:13.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\Register.js",
+              "RelativeDocumentMoniker": "src\\Register.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\Register.js",
+              "RelativeToolTip": "src\\Register.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T03:56:09.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainTable.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\MainTable.js",
+              "RelativeDocumentMoniker": "src\\MainTable.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\MainTable.js",
+              "RelativeToolTip": "src\\MainTable.js",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAACoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-13T23:49:06.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WarrantyInput.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\WarrantyInput.js",
+              "RelativeDocumentMoniker": "src\\WarrantyInput.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\WarrantyInput.js",
+              "RelativeToolTip": "src\\WarrantyInput.js",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-14T22:41:54.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\Details.js",
+              "RelativeDocumentMoniker": "src\\Details.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\Details.js",
+              "RelativeToolTip": "src\\Details.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-22T03:21:37.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductInput.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\ProductInput.js",
+              "RelativeDocumentMoniker": "src\\ProductInput.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\ProductInput.js",
+              "RelativeToolTip": "src\\ProductInput.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0BAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-08T22:35:20.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Serial.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\Serial.js",
+              "RelativeDocumentMoniker": "src\\Serial.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\Serial.js",
+              "RelativeToolTip": "src\\Serial.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-18T01:31:55.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SerialSearch.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\SerialSearch.js",
+              "RelativeDocumentMoniker": "src\\SerialSearch.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\SerialSearch.js",
+              "RelativeToolTip": "src\\SerialSearch.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwEEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T20:15:42.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleManagement.js",
+              "DocumentMoniker": "C:\\Users\\ShamaS\\myreactapp\\src\\RoleManagement.js",
+              "RelativeDocumentMoniker": "src\\RoleManagement.js",
+              "ToolTip": "C:\\Users\\ShamaS\\myreactapp\\src\\RoleManagement.js",
+              "RelativeToolTip": "src\\RoleManagement.js",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T00:17:26.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
