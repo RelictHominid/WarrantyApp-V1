@@ -1,3 +1,78 @@
+# **Warranty Management System**  
+
+## **📌 Overview**  
+The **Warranty Management System** is a web application designed to **track, manage, and process product warranty claims** efficiently. It includes **user authentication, role-based access control, product registration, claim submission, and account management**.
+
+## 🚀 **Functions of the Application**  
+
+### 🔑 **Authentication & User Management**  
+- **User Registration:** New users can create an account with a username and password.  
+- **User Login:** Authenticates users using JWT tokens and grants access to their specific data.  
+- **User-Specific Data Access:** Ensures each user only sees and manages their own warranty claims.  
+- **Logout:** Securely logs out the user by clearing authentication tokens.  
+- **(Upcoming in V2) Email Authentication:** Users will be able to verify their accounts via email and reset their passwords if forgotten.  
+
+### 📋 **Warranty Management**  
+- **View Warranty Claims:** Displays all warranty claims submitted by the logged-in user in a structured table.  
+- **Add New Warranty Claim:** Users can submit claims, specifying:  
+  - **Part Number**  
+  - **Description of Issue**  
+  - **Quantity Affected**  
+  - **Cause of Failure**  
+- **Delete Warranty Claim:** Provides an option to remove warranty claims with a confirmation message.  
+- **Search & Filter Claims:** Users can search claims based on multiple criteria using a dynamic filter button.  
+
+### 🔍 **Product Registration & Search**  
+- **Register a Product:** Users can submit product details such as:  
+  - **Owner Information**  
+  - **Dealer Details**  
+  - **Purchase Date**  
+  - **Product Usage Information**  
+- **Search by Serial Number:** A dedicated search page allows users to look up product details by entering a serial number.  
+- **Autocomplete Suggestions:** While typing a serial number, users will see suggestions from the database.  
+- **Serial Number Normalization:** Serial numbers are stored with hyphens (e.g., `915-662-335`) but can be searched flexibly.  
+
+### 📁 **File Upload & Attachments**  
+- **Attach Files to Claims:** Users can upload supporting documents (e.g., receipts, images, PDFs) for their claims.  
+- **(Upcoming in V2) File Management System:** A dedicated file storage and retrieval system for better file organization and access.  
+
+### 🖥️ **UI & Navigation**  
+- **Navigation Bar:**  
+  - When logged in: Displays relevant links, search functionality, and a logout button.  
+  - When logged out: Shows minimal UI with only login and registration options.  
+- **Redirection Handling:**  
+  - If a logged-in user tries to access login or registration, they are redirected to the home page.  
+  - After submitting a claim, users see a success message, and the page refreshes after 3 seconds.  
+
+### 🛠️ **Backend & API Handling**  
+- **JWT Authentication:** Ensures secure login and user data protection using JSON Web Tokens.  
+- **SQLite3 Database:** Stores warranty claims, product registrations, user credentials, and more.  
+- **REST API Integration:**  
+  - Fetches user-specific data securely.  
+  - Handles CRUD operations for warranty claims and product registrations.  
+
+### **🔹 UI & UX Enhancements**  
+✔ **Modern & Professional Styling with CSS**  
+✔ **Login & Registration Page Animation**  
+✔ **Accordion Table for Claim Details**  
+✔ **Navigation Bar with Dynamic Links Based on Login Status**  
+
+## **🛠️ Tech Stack**  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, SQLite3  
+- **Authentication:** JWT
+---
+
+### 🌟 **Planned Features for V2**  
+- **📧 Email Authentication & Password Reset**  
+  - Users will receive email verification links upon registration.  
+  - Password reset functionality via email.  
+- **📂 File Management System**  
+  - Users can manage uploaded files, view history, and delete attachments.  
+- **📊 Advanced Data Filtering & Analytics**  
+  - More in-depth search, filtering, and reporting capabilities. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
